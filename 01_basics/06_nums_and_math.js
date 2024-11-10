@@ -1,5 +1,5 @@
-const score = 400
-// console.log(score);
+const Gitscore = 400
+console.log(Gitscore);
 
 const balance = new Number(100)
 // console.log(balance);
@@ -14,7 +14,7 @@ const otherNumber = 123.8966
 const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-IN'));
 
-// +++++++++++++ Maths +++++++++++++++++++++++++++++
+// +++++++++++++ Maths +++++++++++++++++++++++++
 
 // console.log(Math);
 // console.log(Math.abs(-4));
